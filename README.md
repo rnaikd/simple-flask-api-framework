@@ -3,7 +3,8 @@
 This library is to be use to make simple rest application using flask
 
 > falskapp.py is main file which understands URL and invoke proper action
-> api route must be <host>/api/<classname>/<:param>
+
+> api route must be <:host>/api/<:classname>/<:param>
 
 How this will work?
 Let's take some example
