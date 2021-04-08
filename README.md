@@ -34,7 +34,7 @@ How to use?
 How to extend?
 1. This project is made to create APIs using flask framework 
 2. No need to hardcode routes and define functions each time
-3. This works fast development kit
+3. This works as fast development kit
 4. This project helps to keep code modular and automic
 5. For each process you can add a class with get, post, put and delete methods which will be directly accessible from api endpoints
 6. You can design classes and structure them as MC if required
